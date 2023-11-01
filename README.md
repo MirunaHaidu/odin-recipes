@@ -10,6 +10,8 @@ This project is part of The Odin Project's curriculum, focusing on building a si
 
 The Odin Recipes project is a simple recipe website with multiple recipe pages. Each recipe page contains an image of the finished dish, a description, a list of ingredients, and step-by-step instructions.
 
+Check out the live demo [here](https://mirunahaidu.github.io/odin-recipes/).
+
 ## Project Structure
 
 - `index.html`: The main page with links to different recipe pages.
